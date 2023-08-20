@@ -3,7 +3,7 @@
 <hr>
  <table>
   <tr>
-    <th>golang</th>
+    <th>rust</th>
     <th>python3</th>
     <th>javascript</th>
     
